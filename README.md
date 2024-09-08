@@ -1,3 +1,5 @@
+# Human-body-detection-security-system Public
+2023 | Embedded Term Project
 
 # Raspberry Pi를 사용한 임베디드 시스템 텀 프로젝트
 
